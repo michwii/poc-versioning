@@ -1,0 +1,12 @@
+{
+  "name": "Authentification_authorisation_test",
+  "description": "Test",
+  "version": "0.1.0",
+  "dependencies": {
+    "mongodb": "^2.0.49",
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js"
+}
